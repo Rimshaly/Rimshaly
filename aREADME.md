@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋friends,  I'm Rimsha-Ali</h1>
+<h1 align="center">Hi 👋friends,  I'm Rimsha Ali</h1>
 <h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimsha-ali&label=Profile%20views&color=0e75b6&style=flat" alt="rimsha-ali" /> </p>
 
-
+👀 **About Me**
 - 🔭 I’m currently working on **Digital Marketing**
 
-- 🌱 I’m currently learning **GitHub, Adobe Illustrator,AI**
+- 🌱 I’m currently learning **GitHub, Adobe Illustrator,AI, MS Office**
 
 - 📫 How to reach me **rimsh.aly.me@gmail.com**
 
-- ⚡ Fun fact **I love Travelling, painting, Learning**
+- ⚡ Fun fact **I love learning new stuff and challenge myself** 📚📖
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
